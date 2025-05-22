@@ -59,13 +59,5 @@ Ce projet utilise **YOLOv8 Pose Estimation** pour détecter les mouvements de l'
 * `speak()` et `worker_speak()` : synthèse vocale dans un thread séparé.
 * `main loop` : détection vidéo + comptage de pompes.
 
-## 👤 Auteur
-
-Développé par **\[Ton Nom]**
-
-## 📄 Licence
-
-Ce projet est open-source sous licence [MIT](https://opensource.org/licenses/MIT).
-
 ---
 
